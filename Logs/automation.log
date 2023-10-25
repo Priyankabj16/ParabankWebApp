@@ -1,0 +1,34 @@
+10/24/202306:16:34PM-root-INFO-   Test_HomePageTitle
+10/24/202306:16:34PM-root-INFO-   Launching Browser
+10/24/202306:17:28PM-root-INFO-   Test Successful
+
+
+10/24/202306:21:29PM-root-INFO-   Test_Register
+10/24/202306:21:29PM-root-INFO-   Launching Browser
+10/24/202306:21:59PM-root-INFO-   Registration Process has been started
+10/24/202306:21:59PM-root-INFO-   Entering the details
+10/24/202306:22:04PM-root-INFO-   Registration Process Completed
+10/24/202306:22:05PM-root-INFO-   Registration Successful
+
+
+10/24/202306:23:30PM-root-INFO-   Test_Login
+10/24/202306:23:30PM-root-INFO-   Launching Browser
+10/24/202306:23:59PM-root-INFO-   Entering the login details
+10/24/202306:24:05PM-root-INFO-   Successfully logged in
+
+
+10/24/202306:30:28PM-root-INFO-   Test_OpenNewAccount
+10/24/202306:30:28PM-root-INFO-   Launching Browser
+10/24/202306:31:18PM-root-INFO-   Entering the login details
+10/24/202306:31:25PM-root-INFO-   Successfully Logged in
+10/24/202306:31:25PM-root-INFO-   Opening New Account
+10/24/202306:31:31PM-root-INFO-   New Account Opened Successfully
+
+10/25/202311:53:33AM-root-INFO-   Test_TransferFunds
+10/25/202311:53:33AM-root-INFO-   Launching Browser
+10/25/202311:55:15AM-root-INFO-   Entering the login details
+10/25/202311:55:17AM-root-INFO-   Successfully logged in
+10/25/202312:00:02PM-root-INFO-   Test_TransferFunds
+10/25/202312:00:02PM-root-INFO-   Launching Browser
+10/25/202312:00:54PM-root-INFO-   Entering the login details
+10/25/202312:00:57PM-root-INFO-   Successfully logged in
